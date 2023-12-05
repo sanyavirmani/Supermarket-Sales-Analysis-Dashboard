@@ -1,6 +1,6 @@
 # Supermarket Sales Analysis Dashboard
 * Dataset by- Kaggle
-* Analyzed the data 1000+ sales records and visualized it comparing them on different factors such as City, Product Line, Branches, etc.
+* Analyzed the data of 1000+ sales records and visualized it comparing them on different factors such as City, Product Line, Branches, etc. using PowerBI.
 * For the live interactive dashboard, check it out on novyPro- https://www.novypro.com/project/data-visualisation
 * Here are the key takeaways from the analysis-
 
